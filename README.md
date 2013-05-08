@@ -1,0 +1,1 @@
+Figuring out Git and integrating with Dreamweaver ain't easy!
