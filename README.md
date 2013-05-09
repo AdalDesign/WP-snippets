@@ -1,1 +1,1 @@
-Figuring out Git and integrating with Dreamweaver ain't easy!
+This Repo is aimed at becoming a library of scripts and snippets that are of value for myself and others during WordPress web design projects. Titles are meant to be self-explanatory.
